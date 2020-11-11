@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "plex-site": {
+      "hosting": {
+        "plex-site": [
+          "plex-site"
+        ]
+      }
+    }
+  }
+}
